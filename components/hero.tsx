@@ -21,10 +21,6 @@ export function Hero() {
               <Mail className="w-4 h-4" />
               mansipatel7055@gmail.com
             </Button>
-            <Button variant="outline" className="gap-2 hover-lift animate-fade-in">
-              <Phone className="w-4 h-4" />
-              9662317551
-            </Button>
             <Button variant="outline" className="gap-2 hover-lift animate-fade-in" asChild>
               <a href="https://github.com/01Maya" target="_blank" rel="noopener noreferrer">
                 <Github className="w-4 h-4" />
